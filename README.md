@@ -4,8 +4,6 @@ IF68X -	Desenvolvimento De Jogos - C91
 
 ## Descrição
 
-### Projeto 1
-
 Faça uma fase pequena de um jogo de plataforma que tenha pelo menos os seguintes requisitos:
 - Um cenário com pelo menos 6 vezes a largura da tela.
 - Um personagem jogável (PC) com animação de movimento.
