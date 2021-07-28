@@ -16,7 +16,8 @@ public class script_camera : MonoBehaviour
     void Update()
     {
         if (pc) {
-            Vector3 pos = new Vector3(pc.transform.position.x, pc.transform.position.y + i, j);
+            //Vector3 pos = new Vector3(pc.transform.position.x, pc.transform.position.y + i, j);
+            Vector3 pos = new Vector3(pc.transform.position.x, 0, j);
             transform.position = pos;
         }
     }
